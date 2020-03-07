@@ -5,3 +5,4 @@
 *.png
 *.svg
 *.jpg
+!map_of_Manhattan.png
